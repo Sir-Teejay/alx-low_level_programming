@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S -E $CFILE -o main7.s
+gcc -S $CFILE
